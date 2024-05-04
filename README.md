@@ -4,15 +4,11 @@
 
 <div align=center>
 
-![unnamed](https://github.com/arsitektur-jaringan-komputer/Modul-Sisop/assets/54766683/2dbce2c6-9a0e-497b-9c66-6a984d03d9b4)
-
 </div>
 
 Ben White, a footballer who dazzles with his skills on the pitch, is confidently performing as a key player for Arsenal. One day, he performed so badly against Munich that it made one of the gods of the isekai world, Justok, very angry. Justok forcibly sent Ben White to his world called Aztec, to be taken and punished by the Pillar Men.
 
 Ben White was told to choose 1 of 3 punishments, the first of which was horse racing with Funny Valentine, having coffee with Giorno at his Requiem Domain, and saving the city of Morioh Cho from Pucci's siege. With full awareness, Ben White chose the last option. Ben White was then bestowed with a skill from Justok, named _**[!!! ZA COMPOSE!!!]**_.
-
-![image](https://github.com/arsitektur-jaringan-komputer/Modul-Sisop/assets/54766683/9c062d65-709d-47ef-b744-d84716d611e8)
 
 This skill could grant any request in that world, ranging from weapons, magic, standpower, etc. Everything could be made as long as the request was wrapped in a request. Everything could be made as long as the request was wrapped in a service docker container. However, he doesn't know what service is good to be able to take Morioh Cho from Pucci. He also asks you, the citizens of Morioh Cho, to work together to help Ben White compose his docker compose.
 
@@ -37,15 +33,11 @@ This skill could grant any request in that world, ranging from weapons, magic, s
 
 <div align=center>
 
-![unnamed](https://github.com/arsitektur-jaringan-komputer/Modul-Sisop/assets/54766683/2dbce2c6-9a0e-497b-9c66-6a984d03d9b4)
-
 </div>
 
 Ben White, seorang pesepakbola yang mempesona dengan keahliannya di lapangan, tampil percaya diri sebagai pemain kunci untuk Arsenal. Suatu hari, dia tampil sangat buruk saat melawan Munchen, sehingga membuat salah satu dewa di dunia isekai, Justok, sangat marah. Justok pun mengirim paksa Ben White ke dunia nya yang bernama Aztec, untuk dibawa dan dihukum oleh Pillar Men.
 
 Ben White disuruh memilih 1 dari 3 hukuman, yang pertama adalah balap kuda dengan Funny Valentine, ngopi bareng Giorno di Domain Requiem miliknya, dan menyelamatkan kota Morioh Cho dari kepungan Pucci. Dengan kesadaran penuh, Ben White memilih opsi terakhir. Ben White lalu dianugerahi skill dari Justok, bernama _**[!!! ZA COMPOSE !!!]**_.
-
-![image](https://github.com/arsitektur-jaringan-komputer/Modul-Sisop/assets/54766683/9c062d65-709d-47ef-b744-d84716d611e8)
 
 Skill ini bisa mengabulkan segala permintaan apapun di dunia tersebut, mulai dari senjata, sihir, standpower, dsb. Semua dapat dibuat asalkan permintaan tersebut dibungkus dalam sebuah service docker container. Namun, dia tidak tahu service apa yang bagus untuk bisa merebut Morioh Cho dari Pucci. Dia pun meminta kalian, para warga Morioh Cho, untuk bekerjasama membantu Ben White menyusun docker compose nya.
 
